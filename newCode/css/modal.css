@@ -1,0 +1,22 @@
+.box {
+  width: 100px;
+  height: 100px;
+  border: 1px solid #666;
+  background: #eee;
+  margin: 20px auto;
+}
+.m-btn {
+  width: 100px;
+  height: 40px;
+  background: #336699;
+  font-size: 16px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 1;
+  transition: 0.5s;
+}
+.hide {
+  opacity: 0;
+}
