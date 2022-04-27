@@ -4,7 +4,7 @@
 //   $("body").on('click','.m-btn', hideBox)
 // }
 
-
+asdasd
 // const hideBox =()=> {
 //   $(".box").hide(1000)
 // }
